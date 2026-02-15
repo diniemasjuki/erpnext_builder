@@ -1,0 +1,30 @@
+{
+ "app": "builder",
+ "bg_color": "blue",
+ "creation": "2026-02-09 09:59:30.527401",
+ "docstatus": 0,
+ "doctype": "Desktop Icon",
+ "hidden": 0,
+ "icon_type": "App",
+ "idx": 80,
+ "label": "Frappe Builder",
+ "link": "/builder",
+ "link_type": "External",
+ "logo_url": "/assets/builder/frontend/builder_logo.png",
+ "modified": "2026-02-12 10:00:20.978109",
+ "modified_by": "Administrator",
+ "name": "Frappe Builder",
+ "owner": "Administrator",
+ "parent_icon": "",
+ "restrict_removal": 1,
+ "roles": [
+  {
+   "role": "Administrator"
+  },
+  {
+   "role": "APP - Frappe Builder Manager"
+  }
+ ],
+ "sidebar": "Frappe Builder",
+ "standard": 1
+}
