@@ -11,16 +11,13 @@
  "link": "/builder",
  "link_type": "External",
  "logo_url": "/assets/builder/frontend/builder_logo.png",
- "modified": "2026-02-12 10:00:20.978109",
+ "modified": "2026-02-17 21:48:54.450725",
  "modified_by": "Administrator",
  "name": "Frappe Builder",
  "owner": "Administrator",
  "parent_icon": "",
  "restrict_removal": 1,
  "roles": [
-  {
-   "role": "Administrator"
-  },
   {
    "role": "APP - Frappe Builder Manager"
   }
